@@ -2,7 +2,7 @@
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
-**Updated**: Once a Week | **Current** **Focus**: Deep Reinforcement Learning
+**Updated**: Once a Month | **Current** **Focus**: Big Data
 
 ## Core Skills
 
@@ -12,31 +12,31 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|⬜|
-|[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|⬜|
-|[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|⬜|
-|[Datacamp: Intermediate Object-Oriented Programming in Python](https://www.datacamp.com/courses/intermediate-object-oriented-programming-in-python)|⬜|
-|[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)|⬜|
-|[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)|⬜|
-|[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)|⬜|
-|[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|⬜|
-|[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|⬜|
+|[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✅|
+|[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✅|
+|[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|✅|
+|[Datacamp: Intermediate Object-Oriented Programming in Python](https://www.datacamp.com/courses/intermediate-object-oriented-programming-in-python)|✅|
+|[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)|✅|
+|[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)|✅|
+|[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)|✅|
+|[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|✅|
+|[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|✅|
 |[Datacamp: Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)|⬜|
-|[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)|⬜|
+|[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)|✅|
 |[Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)|⬜|
-|[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|⬜|
-|[Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)|⬜|
-|[Book: Python 201](https://leanpub.com/python201)|⬜|
-|[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)|⬜|
-|[Article: Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)|⬜|
+|[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|✅|
+|[Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)|✅|
+|[Book: Python 201](https://leanpub.com/python201)|✅|
+|[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)|✅|
+|[Article: Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)|✅|
 |[Article: A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)|⬜|
 
 ### Testing & Profiling
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)|⬜|
-|[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)|⬜|
+|[Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)|✅|
+|[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)|✅|
 |[Article: Introduction to Memory Profiling in Python](https://www.datacamp.com/tutorial/memory-profiling-python)|⬜|
 |[Article: Profiling Python code with memory_profiler](https://www.wrighters.io/profiling-python-code-with-memory_profiler/)|⬜|
 |[Article: How to Use "memory_profiler" to Profile Memory Usage by Python Code?](https://coderzcolumn.com/tutorials/python/how-to-profile-memory-usage-in-python-using-memory-profiler)|⬜|
@@ -45,62 +45,62 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|⬜|
-|[Book: The Tech Resume Inside Out](https://thetechresume.com)|⬜|
-|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|⬜|
-|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|⬜|
+|[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)|✅|
+|[Book: The Tech Resume Inside Out](https://thetechresume.com)|✅|
+|[Neetcode: Algorithms and Data Structures for Beginners](https://neetcode.io/courses/dsa-for-beginners/0)|✅|
+|[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)|✅|
 
 ### Linux & Command Line
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)|⬜|
-|[Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)|⬜|
-|[Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)|⬜|
+|[Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)|✅|
+|[Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)|✅|
+|[Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)|✅|
 |[MIT: The Missing Semester](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)|⬜|
-|[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|⬜|
+|[Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)|✅|
 |[Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)|⬜|
-|[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)|⬜|
+|[Udacity: Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)|✅|
 
 ### Version Control
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|⬜|
-|[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|⬜|
-|[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|⬜|
-|[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|⬜|
+|[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|✅|
+|[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|✅|
+|[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|✅|
+|[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|✅|
 
 ### Databases
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|⬜|
-|[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)|⬜|
-|[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
-|[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)|⬜|
-|[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|⬜|
+|[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|✅|
+|[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)|✅|
+|[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|✅|
+|[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)|✅|
+|[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|✅|
 |[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|⬜|
-|[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)|⬜|
-|[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)|⬜|
-|[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)|⬜|
+|[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)|✅|
+|[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)|✅|
+|[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)|✅|
 |[Datacamp: Applying SQL to Real-World Problems](https://www.datacamp.com/courses/applying-sql-to-real-world-problems)|⬜|
-|[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)|⬜|
+|[Datacamp: Analyzing Business Data in SQL](https://www.datacamp.com/courses/analyzing-business-data-in-sql)|✅|
 |[Datacamp: Reporting in SQL](https://www.datacamp.com/courses/reporting-in-sql)|⬜|
 |[Datacamp: Data-Driven Decision Making in SQL](https://www.datacamp.com/courses/data-driven-decision-making-with-sql)|⬜|
-|[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|⬜|
-|[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|⬜|
+|[Datacamp: NoSQL Concepts](https://www.datacamp.com/courses/nosql-concepts)|✅|
+|[Datacamp: Introduction to MongoDB in Python](https://www.datacamp.com/courses/introduction-to-using-mongodb-for-data-science-with-python)|✅|
 
 ### Backend Engineering
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|⬜|
-|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|⬜|
+|[Udacity: Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)|✅|
+|[Udacity: HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)|✅|
 |[Udacity: Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)|⬜|
 |[Udacity: Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)|⬜|
-|[Datacamp: Introduction to APIs in Python](https://www.datacamp.com/courses/introduction-to-apis-in-python)|⬜|
-|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|⬜|
+|[Datacamp: Introduction to APIs in Python](https://www.datacamp.com/courses/introduction-to-apis-in-python)|✅|
+|[Udacity: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)|✅|
 
 ### Production System Design
 
@@ -119,12 +119,12 @@ A running log of things I'm learning to build strong core software engineering s
 	
 |Resource|Progress|
 |---|---|
-|[Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)|⬜|
-|[Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)|⬜|
-|[Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)|⬜|
+|[Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)|✅|
+|[Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)|✅|
+|[Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)|✅|
 |[Datacamp: Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)|⬜|
-|[Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)|⬜|
-|[Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)|⬜|
+|[Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)|✅|
+|[Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)|✅|
 |[Datacamp: Experimental Design in Python](https://datacamp.com/courses/experimental-design-in-python)|⬜|
 |[Datacamp: Practicing Statistics Interview Questions in Python](https://www.datacamp.com/courses/practicing-statistics-interview-questions-in-python)|⬜|
 |[edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)|⬜|
@@ -147,13 +147,13 @@ A running log of things I'm learning to build strong core software engineering s
 |[Book: The StatQuest Illustrated Guide To Machine Learning](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B0BLM4TLPY)|⬜|
 |[Datacamp: Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)|⬜|
 |[Datacamp: Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)|⬜|
-|[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|⬜|
-|[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)|⬜|
-|[Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)|⬜|
-|[Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)|⬜|
+|[Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)|✅|
+|[Datacamp: Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python)|✅|
+|[Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)|✅|
+|[Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)|✅|
 |[edX: Implementing Predictive Analytics with Spark in Azure HDInsight](https://www.edx.org/course/implementing-predictive-analytics-spark-microsoft-dat202-3x-2)|⬜|
-|[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)|⬜|
-|[Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)|⬜|
+|[Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)|✅|
+|[Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)|✅|
 |[Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)|⬜|
 |[Datacamp: Model Validation in Python](https://www.datacamp.com/courses/model-validation-in-python)|⬜|
 |[Datacamp: Hyperparameter Tuning in Python](https://www.datacamp.com/courses/hyperparameter-tuning-in-python)|⬜|
@@ -161,7 +161,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Predicting Customer Churn in Python](https://www.datacamp.com/courses/predicting-customer-churn-in-python)|⬜|
 |[Datacamp: Dimensionality Reduction in Python](https://www.datacamp.com/courses/dimensionality-reduction-in-python)|⬜|
 |[Datacamp: Preprocessing for Machine Learning in Python](https://www.datacamp.com/courses/preprocessing-for-machine-learning-in-python)|⬜|
-|[Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)|⬜|
+|[Datacamp: Data Types for Data Science](https://www.datacamp.com/courses/data-types-for-data-science)|✅|
 |[Datacamp: Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)|⬜|
 |[Datacamp: Feature Engineering for Machine Learning in Python](https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python)|⬜|
 |[Datacamp: Predicting CTR with Machine Learning in Python](https://www.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python)|⬜|
@@ -172,8 +172,8 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|⬜|
-|[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|⬜|
+|[Article: An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent)|✅|
+|[Book: Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608)|✅|
 |[Fast.ai: Practical Deep Learning for Coder (Part 1)](https://course.fast.ai/)|⬜|
 |[Fast.ai: Practical Deep Learning for Coder (Part 2)](https://course.fast.ai/Lessons/part2.html)|⬜|
 |[Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)|⬜|
@@ -210,8 +210,8 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Book: Hands-On Large Language Models: Language Understanding and Generation](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)|⬜|
-|[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|⬜|
+|[Book: Hands-On Large Language Models: Language Understanding and Generation](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)|✅|
+|[Book: AI Engineering: Building Applications with Foundation Models](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302)|✅|
 |[Book: Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)|⬜|
 |[Book: Large Language Models: A Deep Dive: Bridging Theory and Practice](https://www.amazon.com/Large-Language-Models-Bridging-Practice/dp/3031656466)|⬜|
 |[Book: A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)|⬜|
@@ -336,15 +336,15 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|⬜|
-|[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|⬜|
-|[Article: How I came in first on ARC-AGI-Pub using Sonnet 3.5 with Evolutionary Test-time Compute](https://params.com/@jeremy-berman/arc-agi)|⬜|
-|[Anthropic Courses](https://github.com/anthropics/courses)|⬜|
-|[Anthropic: The Claude in Amazon Bedrock Course](https://www.anthropic.com/aws-reinvent-2024/course)|⬜|
-|[Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|⬜|
-|[Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)|⬜|
+|[Article: OpenAI Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)|✅|
+|[Article: Prompting Fundamentals and How to Apply them Effectively](https://eugeneyan.com/writing/prompting/)|✅|
+|[Article: How I came in first on ARC-AGI-Pub using Sonnet 3.5 with Evolutionary Test-time Compute](https://params.com/@jeremy-berman/arc-agi)|✅|
+|[Anthropic Courses](https://github.com/anthropics/courses)|✅|
+|[Anthropic: The Claude in Amazon Bedrock Course](https://www.anthropic.com/aws-reinvent-2024/course)|✅|
+|[Article: Prompt Engineering(Liliang Weng)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)|✅|
+|[Article: Prompt Engineering 201: Advanced methods and toolkits](https://amatria.in/blog/prompt201)|✅|
 |[Article: Optimizing LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)|⬜|
-|[Article: Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|⬜|
+|[Article: Primers • Prompt Engineering](https://aman.ai/primers/ai/prompt-engineering/)|✅|
 |[Article: Anyscale Endpoints: JSON Mode and Function calling Features](https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features)|⬜|
 |[Article: Guided text generation with Large Language Models](https://medium.com/productizing-language-models/guided-text-generation-with-large-language-models-d88fc3dcf4c)|⬜|
 |[Book: Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)|⬜|
@@ -469,31 +469,31 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|⬜|
-|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|⬜|
-|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|⬜|
-|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|⬜|
-|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|⬜|
-|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|⬜|
-|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|⬜|
-|[CSS for Javascript Developers](https://css-for-js.dev/)|⬜|
-|[Article: Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|⬜|
-|[Book: Refactoring UI](https://refactoringui.com/book/)|⬜|
-|[Youtube: How to Make Your Website Not Ugly: Basic UX for Programmers](https://www.youtube.com/watch?v=Jf0cjocP8Wk) `48m`|⬜|
+|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✅|
+|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✅|
+|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✅|
+|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✅|
+|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✅|
+|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
+|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
+|[CSS for Javascript Developers](https://css-for-js.dev/)|✅|
+|[Article: Create an illustration in Figma design](https://help.figma.com/hc/en-us/articles/13543867954711-Create-an-illustration-in-Figma-design)|✅|
+|[Book: Refactoring UI](https://refactoringui.com/book/)|✅|
+|[Youtube: How to Make Your Website Not Ugly: Basic UX for Programmers](https://www.youtube.com/watch?v=Jf0cjocP8Wk) `48m`|✅|
 
 ### Django
 
 |Resource|Progress|
 |---|---|
-|[Article: Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)|⬜|
+|[Article: Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)|✅|
 
 ### HTML
 
 |Resource|Progress|
 |---|---|
-|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|⬜|
-|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|⬜|
-|[Article: Alternative Text](https://webaim.org/techniques/alttext/)|⬜|
+|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✅|
+|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✅|
+|[Article: Alternative Text](https://webaim.org/techniques/alttext/)|✅|
 
 ### Langchain
 
@@ -507,14 +507,14 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|⬜|
-|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|⬜|
-|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|⬜|
-|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|⬜|
-|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|⬜|
-|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|⬜|
-|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|⬜|
-|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|⬜|
+|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✅|
+|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✅|
+|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✅|
+|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✅|
+|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✅|
+|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✅|
+|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✅|
+|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✅|
 
 ### Matplotlib
 
@@ -539,15 +539,15 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|⬜|
-|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|⬜|
-|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|⬜|
-|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|⬜|
-|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|⬜|
-|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|⬜|
-|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|⬜|
-|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|⬜|
-|[Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|⬜|
+|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|✅|
+|[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|✅|
+|[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|✅|
+|[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|✅|
+|[Datacamp: Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)|✅|
+|[Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)|✅|
+|[Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)|✅|
+|[Datacamp: Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas)|✅|
+|[Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)|✅|
 
 ### PyTorch
 
@@ -590,7 +590,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)|⬜|
+|[VSCode Docs: Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py)|✅|
 
 ## Miscellaneous
 
@@ -610,7 +610,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
-|[Course: Compound Content](https://visualizevalue.com/products/compound-content)|⬜|
+|[Course: Compound Content](https://visualizevalue.com/products/compound-content)|✅|
 
 ### Technical Writing
 |Resource|Progress|
